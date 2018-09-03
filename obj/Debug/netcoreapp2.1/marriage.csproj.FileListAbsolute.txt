@@ -1,0 +1,11 @@
+C:\SAPTARSHI\PROJECT\Git\marriage\bin\Debug\netcoreapp2.1\marriage.deps.json
+C:\SAPTARSHI\PROJECT\Git\marriage\bin\Debug\netcoreapp2.1\marriage.runtimeconfig.json
+C:\SAPTARSHI\PROJECT\Git\marriage\bin\Debug\netcoreapp2.1\marriage.runtimeconfig.dev.json
+C:\SAPTARSHI\PROJECT\Git\marriage\bin\Debug\netcoreapp2.1\marriage.dll
+C:\SAPTARSHI\PROJECT\Git\marriage\bin\Debug\netcoreapp2.1\marriage.pdb
+C:\SAPTARSHI\PROJECT\Git\marriage\obj\Debug\netcoreapp2.1\marriage.csprojAssemblyReference.cache
+C:\SAPTARSHI\PROJECT\Git\marriage\obj\Debug\netcoreapp2.1\marriage.csproj.CoreCompileInputs.cache
+C:\SAPTARSHI\PROJECT\Git\marriage\obj\Debug\netcoreapp2.1\marriage.AssemblyInfoInputs.cache
+C:\SAPTARSHI\PROJECT\Git\marriage\obj\Debug\netcoreapp2.1\marriage.AssemblyInfo.cs
+C:\SAPTARSHI\PROJECT\Git\marriage\obj\Debug\netcoreapp2.1\marriage.dll
+C:\SAPTARSHI\PROJECT\Git\marriage\obj\Debug\netcoreapp2.1\marriage.pdb
